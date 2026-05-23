@@ -103,7 +103,7 @@ export async function HomePageOverride() {
           <div className="mb-6 flex items-end justify-between gap-4">
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#704264]">Trending releases</p>
-              <h2 className="mt-2 text-3xl font-semibold tracking-[-0.03em]">Latest News Cards</h2>
+              <h2 className="mt-2 text-3xl font-semibold tracking-[-0.03em]">Latest News</h2>
             </div>
             <Link href="/updates" className="text-sm font-semibold text-[#704264] hover:text-[#49243e]">View all</Link>
           </div>
